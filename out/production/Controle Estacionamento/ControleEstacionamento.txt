@@ -1,0 +1,7 @@
+||||Quantidade de ve?culos hoje|||| 
+Carros: 0
+Motos: 1
+Total: 1
+||||Quantidade de ve?culos agora|||| 
+Carros: 0
+Motos: 1
